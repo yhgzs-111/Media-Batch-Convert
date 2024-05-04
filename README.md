@@ -4,6 +4,8 @@ Video/Audio Batch Converter
 # Download
 Cick [here](https://github.com/yhgzs-111/Media-Batch-Convert/releases/latest/download/win-x64.exe).
 
+# Require
+This project requires the installation of [FFmpeg](https://www.gyan.dev/ffmpeg/builds/) to be used.
+
 # Language
-Only Simplified Chinese.
-(Wait and then you can see the English version:)
+Simplified Chinese, English
