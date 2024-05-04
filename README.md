@@ -2,7 +2,7 @@
 Video/Audio Batch Converter
 
 # Download
-Cick [here](https://github.com/yhgzs-111/Media-Batch-Convert/releases/latest/download/win-x64.exe).
+Cick [here](https://github.com/yhgzs-111/Media-Batch-Convert/archive/refs/heads/main.zip).
 
 # Require
 This project requires the installation of [FFmpeg](https://www.gyan.dev/ffmpeg/builds/) to be used.
